@@ -1,0 +1,14 @@
+{
+  "name": "audio-summary",
+  "displayName": "Audio Summary",
+  "version": "0.1.0",
+  "description": "Turn an interview, call, meeting or voice note into one document: a short about block, a bullet-point summary with next steps and open questions, and a clean, speaker-labelled, timestamped transcript, translated if needed. Transcribes locally with Whisper small via sherpa-onnx; no API key, no GPU.",
+  "author": {
+    "name": "Philip Mueller",
+    "url": "https://github.com/phillippmueller"
+  },
+  "homepage": "https://github.com/phillippmueller/audio-summary",
+  "repository": "https://github.com/phillippmueller/audio-summary",
+  "license": "MIT",
+  "keywords": ["audio", "transcription", "whisper", "summary", "meeting-notes", "interview", "voice-note", "translation"]
+}

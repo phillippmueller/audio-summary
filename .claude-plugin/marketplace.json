@@ -1,0 +1,15 @@
+{
+  "name": "audio-summary",
+  "description": "Audio Summary, by Philip Mueller",
+  "owner": {
+    "name": "Philip Mueller",
+    "url": "https://github.com/phillippmueller"
+  },
+  "plugins": [
+    {
+      "name": "audio-summary",
+      "source": "./plugins/audio-summary",
+      "description": "Turn a recording into one document: a bullet-point summary with next steps and open questions, plus a clean, speaker-labelled transcript. Transcribes locally with Whisper."
+    }
+  ]
+}
